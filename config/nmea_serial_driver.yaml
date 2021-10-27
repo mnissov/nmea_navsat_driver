@@ -1,4 +1,4 @@
-nmea_navsat_driver:
+/gps/nmea_navsat_driver:
   ros__parameters:
     port: "/dev/ttyUSB1"
     baud: 38400
